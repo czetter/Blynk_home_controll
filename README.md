@@ -1,1 +1,4 @@
-Blynk_home_controll
+HOME CONTROLL WITH BLYNK
+===	
+by Czetter Gábor Péter
+---
