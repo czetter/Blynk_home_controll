@@ -1,6 +1,6 @@
 HOME CONTROLL WITH BLYNK
 ===
-by Czetter Gábor Péter
+Czetter Gábor Péter
 ---
 Arduino_Blynk:  
  .ino for arduino uno, with Virtual pin representation for Blynk.
